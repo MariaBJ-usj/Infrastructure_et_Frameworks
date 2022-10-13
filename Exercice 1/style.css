@@ -1,0 +1,23 @@
+/* Navbar Menu */
+body{margin: auto; background-color: rgba(25, 25, 112, 1); font-size: 12pt;}
+#dauphine-logo{margin-left: 20px; font-family: Arial, Helvetica, sans-serif;} 
+.dp-link{color: darkblue;}
+.dp-link :hover{color: black;}
+.dp-link :visited{color: darkblue;}
+nav{font-size: large;}
+label{font-weight: bold;}
+
+/* form style*/
+form{margin: 30px; padding: 20px; background-color: white; font-size: large; color: black; border-radius: 15px;}
+form .input-grp{margin: auto; width: 100%;margin-bottom: 20px;}
+form .input-grp .element-input{width: 33%; vertical-align: middle;}
+form .input-grp .radio-input{width: 60px;}
+form .input-grp .element-input-contact{width: 100%; margin-top: 20px;}
+form .button-grp {margin: auto; width: 100%;}
+form .button-grp button {width: 15%; margin: 0px 3px;}
+#email-label{color: red;}
+
+/* paragraphe style */
+#dauphine-description{width: 100%; margin: auto; text-align: center; margin-top: 60px; color: white;}
+#dauphine-description p, h3{display: inline-block; width: 50%; margin: 10px 0px;} 
+#dauphine-description p{text-align: justify;} 
